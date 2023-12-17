@@ -1,8 +1,7 @@
 <h1 align="center">
     <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Silkscreen&size=32&duration=3000&pause=1000
-        &color=07FF04&random=true&width=435&lines=Automate;Create;Design;Python;Rockets;Snowboarding" 
-        alt="Typing SVG" />
+        <img src="https://readme-typing-svg.herokuapp.com?font=Silkscreen&size=32&duration=3000&pause=1000&color=07FF04&random=true&width=435&lines=Automate;Create;Design;Python;Rockets;Snowboarding" 
+        alt="passions" />
     </a>
 </h1>
 
@@ -53,7 +52,6 @@
 <a href="https://git.io/typing-svg"><img src="http://readme-typing-svg.herokuapp.com?font=bitter&size=12&pause=1000&color=F7F7F7&random=false&width=435&lines=somewhat..." alt="somewhat" /></a>
 </p>
 
-<br></br>
 <a href="https://www.linkedin.com/in/ryan-o-glass/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://twitter.com/celestialchippy"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/AixJgnm.png"/></a>
