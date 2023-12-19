@@ -49,7 +49,7 @@
 <h1 align="center">My Brain runs like...</h1>
     <p align="center" width="96">
         <img src="giphy.gif" width="400" height="400" alt="Quantum Brain" />
-    </p> <p align="center">With no checks or balances</p>
+    </p> <p align="center">With no QA team</p>
 
 
 <!-- **************************************************************** Socials **************************************************************** -->
