@@ -42,6 +42,15 @@
 </div>
 
 
+<br><br>
+
+<p align="center">I'm very aware of my surroundings and problems. I'm trying to be more open about it but also make it joke to make myself feel better. Please if you see something here and want to reach out feel free to contact me via email. I'm the very definition of "out of sight, out of mind."</p>
+
+<h1 align="center">My Brain runs like...</h1>
+    <p align="center" width="96">
+        <img src="giphy.gif" width="400" height="400" alt="Quantum Brain" />
+    </p> <p align="center">With no checks or balances</p>
+
 
 <!-- **************************************************************** Socials **************************************************************** -->
 <div align="center">
@@ -59,3 +68,4 @@
   <a href="https://dev.to/celestialchips"><img width="32px" alt="Dev.to" title="celestialchips Dev.to" src="https://i.imgur.com/mVm29vK.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://ko-fi.com/celestialchippy"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://i.imgur.com/PpLeD3K.png"/></a>
+
